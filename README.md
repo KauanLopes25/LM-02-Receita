@@ -1,6 +1,6 @@
-# 02-Receita
+# LM-02-Receita
 
-![](./Preview/Captura%20de%20Tela%202025-03-10%20às%2008.35.10.png)
+![](./Preview/image.png)
 
 Página criada com foco em adiçäo de imagem e video, desenvolvido nas aulas de diciplina linguagem de marcação na escola SENAI Jandira.
 
